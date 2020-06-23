@@ -24,7 +24,7 @@ The Rover Environmental Monitoring Station, or REMS for short, contains instrume
 
 The first thing to understand when looking at annual weather patterns from our rover on the surface of Mars, is the Martian year.  Here on Earth, our years are a little over 365 days long, divided into twelve months.  Mars also has 12 months, but each month is a little longer, as a Martian year is approximately 687 Terran days (24 hours).  The 12 months are taken by using a measurement, The Solar Longitude, or Mars-Sun angle, which is the angle of the sun to the planet as measured from the northern hemisphere.  This measurement is often measured as Ls.  
 
-<img src='http://www-mars.lmd.jussieu.fr/mars/time/orbit.png'>
+<img src='http://www-mars.lmd.jussieu.fr/mars/time/orbit.png' style='Center'>
 
 This is important to understand as we will be looking at Ls as an indicator of where in the annual cycle data was collected from, rather than earth date/times.  The Ls variable gives us a good starting position, `0`, and counts all the way up to `360` degrees to indicate where our red neighbor is located in their trip around our shared star.  As an example, in the graph below, we see over the course of 6 years, we see our Ls variable shift through it's 0 to 360 scale 3 times, which is what we would expect with an orbit of just under two of our years, over a period of about 6 years.
 
