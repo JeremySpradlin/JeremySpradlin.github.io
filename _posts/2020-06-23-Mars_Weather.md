@@ -2,7 +2,7 @@
 layout: post
 title: Interplanetary Forecasts
 subtitle: Detecting Seasonal Weather Patterns from Mars Curiosity
-cover-img: /assets/img/mars.jpg
+cover-img: /assets/img/rover.jpg
 tags: [Mars, Nasa]
 ---
 
