@@ -78,7 +78,7 @@ You can add notification, warning and error boxes like this:
 **Error:** This is an error box.
 
 # Graph Test
-<!DOCTYPE html>
+
 <html>
 <head>
   <style>
