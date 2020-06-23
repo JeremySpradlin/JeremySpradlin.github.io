@@ -62,3 +62,8 @@ This is important to understand as we will be looking at Ls as an indicator of w
   </script>
 </body>
 </html>
+
+As we can see above, over the course of almost 2000 sols, or almost 6 years, we see our Ls measurment cycle through all 360 degrees almost 3 full times.  This tells us that any annual weather patterns that we see in our data, should equate to about 3 full orbital periods around the sun.  
+
+Let's look at some of our data and see what we have to analyze:
+<img src='/assets/img/Mars_data.png'>
