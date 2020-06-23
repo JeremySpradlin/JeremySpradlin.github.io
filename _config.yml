@@ -14,8 +14,8 @@ author: ME!
 navbar-links:
   About Me: "Stuff about me"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Google: "https://google.com"
+    - Stuff: "https://www.duckduckgo.com"
   Author's home: "https://twitter.com/JeremySpradlin"
 
 # --- Logo --- #
