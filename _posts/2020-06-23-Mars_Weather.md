@@ -6,7 +6,7 @@ cover-img: /assets/img/mars.jpg
 tags: [Mars, Nasa]
 ---
 
-# The God of War
+# The God of War - In Progress
 
 For as long as humans have looked up to the heavens and kept track of what they have seen there, the Red Planet has filled the human imagination with stories and myths, some with their origins extending back into history farther than we can see, and many being more recent as the eyes that we use to observe the sky and the other planets in our solar system have grown more and more capable.  
 
