@@ -8,25 +8,23 @@ tags: [Mars, Nasa]
 
 # The God of War - In Progress
 
-For as long as humans have looked up to the heavens and kept track of what they have seen there, the Red Planet has filled the human imagination with stories and myths, some with their origins extending back into history farther than we can see, and many being more recent as the eyes that we use to observe the sky and the other planets in our solar system have grown more and more capable.  
+For as long as humans have looked up and kept track of the moving heavens, the Red Planet has filled the human imagination with stories and myths. Some with their origins extending back into history farther than we can see, and many being more recent, as the eyes that we use to observe the sky and the other planets in our solar system have grown more and more advanced.  
 
-The past few decades have even had humanity landing machines on our distant neighbor, with all sorts of cameras and other sensors, in order to collect information and beam it back to earth, so that we can better get to know the God of War.  One of the most recent machines we've sent to Mars is the rover Curiosity.  Today, we're going to see if one of our latest vistors to the red planet can tell any stories about what the seasons are like on Mars.
+The past few decades have even seen humanity landing machines on our distant neighbor with an array of cameras and other sensors, in order to collect information and beam it back to earth so that we can better get to know the God of War.  One of the most recent machines we've sent to Mars is the rover Curiosity.  Today, we're going to see if Curisoity can tell us any stories about what the weather patterns on Mars are like.
 
 ## One Giant Leap for Machine Kind
 
-Curiosity is a car-sized rover designed to explore the Gale crater, launched from Cape Canaveral in November of 2011, landing on Mars almost 9 months later.  
-
-Curiosity contained many different scientific instruments, with a focus on Martian climate and geology.  We will be looking at data from the REMS package regarding the former.  
+Curiosity is a car-sized rover designed to explore the Gale crater. Launched from Cape Canaveral in November of 2011, and landing on Mars almost 9 months later, Curiosity contains many different scientific instruments, with a focus on Martian climate and geology.  We will be looking at data from the REMS package for exploring seasonal changes in the local weather.  
 
 The Rover Environmental Monitoring Station, or REMS for short, contains instruments designed to provide daily and seasonal reports on the meteorological conditions around the rover.  Over the course of 6 years, data was collected for the max and minimum temperatures, as well as air pressure.  In this article, we will look to see what sort of annual weather patterns we can detect, if any, from analyzing that data.  
 
 ## A Martian Year
 
-The first thing to understand when looking at annual weather patterns from our rover on the surface of Mars, is the Martian year.  Here on Earth, our years are a little over 365 days long, divided into twelve months.  Mars also has 12 months, but each month is a little longer, as a Martian year is approximately 687 Terran days (24 hours).  The 12 months are taken by using a measurement, The Solar Longitude, or Mars-Sun angle, which is the angle of the sun to the planet as measured from the northern hemisphere.  This measurement is often measured as Ls.  
+When looking at annual weather patterns from our rover on the surface of Mars, it helps having a breif overview of the Martian year.  Here on Earth, our years are a little over 365 days long, divided into twelve months.  Mars also has 12 months, but each month is a little longer, as a Martian year is approximately 687 Terran days (24 hours).  The 12 months are taken by using a measurement, The Solar Longitude, or Mars-Sun angle, which is the angle of the sun to the planet as measured from the northern hemisphere.  This measurement is referred to as Ls.  
 
 <img src='http://www-mars.lmd.jussieu.fr/mars/time/orbit.png' style='Center'>
 
-This is important to understand as we will be looking at Ls as an indicator of where in the annual cycle data was collected from, rather than earth date/times.  The Ls variable gives us a good starting position, `0`, and counts all the way up to `360` degrees to indicate where our red neighbor is located in their trip around our shared star.  As an example, in the graph below, we see over the course of 6 years, we see our Ls variable shift through it's 0 to 360 scale 3 times, which is what we would expect with an orbit of just under two of our years, over a period of about 6 years.
+The Ls measurement is important to understand as we will be looking at Ls as an indicator of where in the annual cycle data was collected from, rather than earth date/times.  The Ls variable gives us a good starting position, `0`, and counts all the way up to `360` degrees to indicate where our red neighbor is located in their trip around the Sun.  As an example, in the graph below, we see over the course of 6 years, we see our Ls variable shift through it's 0 to 360 scale 3 times, which is what we would expect with an orbit of just under two of our years, over a period of about 6 years.
 
 <img src='/assets/img/ls_measurements.png'>
 
@@ -36,17 +34,17 @@ Let's look at some of our data and see what we have to analyze:
 
 <img src='/assets/img/Mars_data.png'>
 
-As we can see from the table above, we are missing some wind speed data, and a deeper analysis showed that atmospheric opacity was pretty much all sunny, or did not contain data.  This isn't unexpected, given that while Mars may have seasonal weather, it is not known for it's thunderstorms. This leaves us with temperature and pressure data.  A quick glance at our maximum recorded temperature data shows the following:
+The first thing you might notice is that we are missing some wind speed data, and a deeper analysis showed that atmospheric opacity was pretty much all sunny, or did not contain any data.  This isn't unexpected, given that while Mars may have seasonal weather, it is not known for it's thunderstorms. (Sandstorms are a different matter, however). This leaves us with temperature and pressure data.  A quick glance at our maximum recorded temperature data shows the following:
 
 <img src='/assets/max_temp_ls.png'>
 
 We can also see that same 3 year pattern in the maximum temperature graph above.  This graph is colored by our Ls measurement so that we can see where Mars is in it's orbit compared to the temperature readings.  You may recall that a Martian year is about 687 days, which is roughly the the amount of the number of Sols we see between the peaks on our graph, as well as the time between shifts in the Ls measurements.  
 
-We can see already that there are seasonal fluctuations in temperature data, at least at the Gale Crater where Curisoity is taking it's readings.  But the above graphic can be difficult to ascertain what temperatures are like in any given year.  Below we will look at averaged temperatures for each of the 12 months, to give us an idea of what temperatures we might expect were we to visit Curiosity at any given month in the year.
+We can see already that there are seasonal fluctuations in temperature data, at least at the Gale Crater where Curisoity is taking it's readings.  But the above graphic can be difficult to predict what temperatures are like in a particular month in any given year.  Below we will look at averaged temperatures for each of the 12 months, to give us an idea of what temperatures we might expect were we to visit Curiosity, no matter the month of our arrival.
 
 <img src='/assets/img/avg_month_temps.png'>
 
-As we can see, temperature fluctuations are almost what we would expect in any given year here on Earth, at least in the northern hemisphere, with the coldest months being the first few months of the Mars year, or the Northward Equinox, and the warmest months being in the Southward equinox.  Months can be difficult ot work with as a measurement of time with Mars, as the months there can very in length much greater than they do here.  The shortest month is about 46 Sols, while the longest is about 67.  It was mentioned that Curiosity landed in the Gale Crater, which is located on the Mar's equator, so we can expect that these temperatures are much warmer than they would be at lattitudes further north or south. Below we can see temperature ranges as they appear throughout an average year.
+As we can see, temperature fluctuations are almost what we would expect in any given year here on Earth, at least in our northern hemisphere, with the coldest months being the first few months of the Martian year, or after the Northward Equinox, and the warmest months being in the Southward equinox period.  Months can be difficult ot work with as a measurement of time with Mars, as the months there can very in length much greater than they do here.  The shortest month is about 46 Sols, while the longest is about 67.  It was mentioned that Curiosity landed in the Gale Crater, which is located on Mar's equator, so we can expect that these temperatures are much warmer than they would be at lattitudes further north or south. <mark>Below we can see temperature ranges as they appear throughout an average year.</mark>
 
 ### Insert Annual Average Temp Range Graph (If completed on time)
 
