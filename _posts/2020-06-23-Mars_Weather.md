@@ -50,15 +50,15 @@ As we can see, temperature fluctuations are almost what we would expect in any g
 
 ## Pressure So Low You Can Feel It
 
-If the cold termperatures on Mars aren't enough to keep tourists away, the extremely low air pressure should do it.  Average air pressure on Earth is a little over a 1,000 milibars, while the average air pressure on Mars is about 6-7 milibars.  That's way below 1% of our own pressure, which means any organic visitors will need to come prepared, as exposure to such pressures would be... unpleasant.  
+If the cold termperatures on Mars aren't enough to keep tourists away, the extremely low air pressure should do it.  Average air pressure on Earth is a little over a 1,000 milibars, while the average air pressure on Mars is about 6-7 milibars.  That's below 1% of our own pressure, which means any organic visitors will need to come prepared, as exposure to such pressures would be... unpleasant.  
 
-The REMS package on Curisoity has been collecting pressure measurements, measured in pascals, and some interesting things stand out when we look at the pressure plotted out over the duration of Curiosity's stay:
+The REMS package on Curisoity has been measuring the air pressure in pascals, and some interesting things stand out when we look at the pressure plotted out over the duration of Curiosity's stay:
 
 <img src='/assets/img/pressure_sol.png'>
 
-What's really interesting about this is that we can see our 3 Martian year pattern show up in our pressure data.  That is remarkable in that there is no seasonal variation of air pressure on Earth.  What's occuring on Mars is that, as the weather gets colder, it's cold enough for CO2 to actually freeze out of the air, causing air pressure to drop by as much as 30%!
+What's really interesting about this is that we can see our 3 Martian year pattern show up in our pressure data.  That is remarkable in that there is no seasonal variation of air pressure on Earth.  What's occuring on Mars is that, as the weather gets colder, it's cold enough for CO2 to actually freeze out of the air, causing air pressure to drop by as much as 30% around the planet!
 
-You might be noticing the double-peaked portion of the graph, noticable that the air pressure starts to drop, only to rise again, before dropping all of the way.  A cursory look into the reasoning for this is due to the eccentricity of Mars orbit, being more oval than Earth's, causes this seasonal min-variation.  
+You might be noticing the double-peaked portion of the graph, where the air pressure starts to drop, only to rise again, before dropping all of the way.  While I was unable to verify this, looking at the Ls measurements at the time of these pressure drops, the eccentricity of Mars orbit being more oval than Earth's seems to cause this mini-seasonal variation.  
 
 If we look at the average pressure for each month, we can see this in greater detail:
 
@@ -68,7 +68,7 @@ If we compare this to the image at the top of the article displaying Mar's orbit
 
 ## An Unhospitable Environment
 
-While there are definitely seasonal variation in the weather around Curisoity, I think most would agree that variation is minimal when compared to our home planet.  In addition, to every young dreamer's dissapointment, it is not a friendly environment to flesh and blood organisms.  With yearly highs just touching positive digits for temperatures, the extremely low air pressure means any visitors will have to wear a full protective suit, no matter how favorable the sunny skies might be that day.  
+After this brief glance at the weather data from the rover Curiosity, I think it is quite evident that there are seasonal variations in the weather on Mars. Just in the temperature fluctuations alone at the equator, where Curiosity is located, they go from freezing in the summer, to deadly in the winter.  Cold temperatures aside, to every young dreamer's dissapointment, with the extremely low air pressure, it is not a friendly environment to flesh and blood organisms.  With yearly highs just touching positive digits for temperatures, the extremely low air pressure means any visitors will have to wear a full protective suit, no matter how favorable the sunny skies might be that day.  
 
 However, any system that is in motion is a system that can be modifed, and maybe one day, with enough ingenuity and advancements in terraforming, our human decscendants will walk freely under the Martian night sky, and look up and dream about the 3d rock from the sun.
 
