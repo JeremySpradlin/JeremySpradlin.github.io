@@ -68,7 +68,9 @@ If we compare this to the image at the top of the article displaying Mar's orbit
 
 ## An Unhospitable Environment
 
-After this brief glance at the weather data from the rover Curiosity, I think it is quite evident that there are seasonal variations in the weather on Mars. Just in the temperature fluctuations alone at the equator, where Curiosity is located, they go from freezing in the summer, to deadly in the winter.  Cold temperatures aside, to every young dreamer's dissapointment, with the extremely low air pressure, it is not a friendly environment to flesh and blood organisms.  With yearly highs just touching positive digits for temperatures, the extremely low air pressure means any visitors will have to wear a full protective suit, no matter how favorable the sunny skies might be that day.  
+After this brief glance at the weather data from the rover Curiosity, I think it is quite evident that there are seasonal variations in the weather on Mars. Just in the temperature fluctuations alone at the equator, where Curiosity is located, they go from freezing in the summer, to deadly in the winter.  
+
+Cold temperatures aside, to every young dreamer's dissapointment, with the extremely low air pressure it is not a friendly environment to flesh and blood organisms.  With yearly highs just touching positive digits for temperatures, the extremely low air pressure means any visitors will have to wear a full protective suit, no matter how favorable the sunny skies might be that day.  
 
 However, any system that is in motion is a system that can be modifed, and maybe one day, with enough ingenuity and advancements in terraforming, our human decscendants will walk freely under the Martian night sky, and look up and dream about the 3d rock from the sun.
 
