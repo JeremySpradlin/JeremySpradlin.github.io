@@ -22,29 +22,37 @@ The Rover Environmental Monitoring Station, or REMS for short, contains instrume
 
 When looking at annual weather patterns from our rover on the surface of Mars, it helps having a breif overview of the Martian year.  Here on Earth, our years are a little over 365 days long, divided into twelve months.  Mars also has 12 months, but each month is a little longer, as a Martian year is approximately 687 Terran days (24 hours).  The 12 months are taken by using a measurement, The Solar Longitude, or Mars-Sun angle, which is the angle of the sun to the planet as measured from the northern hemisphere.  This measurement is referred to as Ls.  
 
-<img src='http://www-mars.lmd.jussieu.fr/mars/time/orbit.png' style='margin: 0 auto' />
+<p align="center">
+  <img width="460" height="300" src='http://www-mars.lmd.jussieu.fr/mars/time/orbit.png'>
+</p>
 
 The Ls measurement is important to understand as we will be looking at Ls as an indicator of where in the annual cycle data was collected from, rather than earth date/times.  The Ls variable gives us a good starting position, `0`, and counts all the way up to `360` degrees to indicate where our red neighbor is located in their trip around the Sun.  As an example, in the graph below, we see over the course of 6 years, we see our Ls variable shift through it's 0 to 360 scale 3 times, which is what we would expect with an orbit of just under two of our years, over a period of about 6 years.
 
-
- <img src='/assets/img/ls_measurements.png' style='margin: 0 auto' />
-
+<p align="center">
+  <img width="460" height="300" src='/assets/img/ls_measurements.png'>
+</p>
 
 As we can see above, over the course of almost 2000 sols, or almost 6 years, we see our Ls measurment cycle through all 360 degrees almost 3 full times.  This tells us that any annual weather patterns that we see in our data, should equate to about 3 full orbital periods around the sun.  
 
 Let's look at some of our data and see what we have to analyze:
 
-<img src='/assets/img/Mars_data.png'>
+<p align="center">
+  <img width="460" height="300" src='/assets/img/Mars_data.png'>
+</p>
 
 The first thing you might notice is that we are missing some wind speed data, and a deeper analysis showed that atmospheric opacity was pretty much all sunny, or did not contain any data.  This isn't unexpected, given that while Mars may have seasonal weather, it is not known for it's thunderstorms. (Sandstorms are a different matter, however). This leaves us with temperature and pressure data.  A quick glance at our maximum recorded temperature data shows the following:
 
-<img src='/assets/max_temp_ls.png'>
+<p align="center">
+  <img width="460" height="300" src='/assets/max_temp_ls.png'>
+</p>
 
 We can also see that same 3 year pattern in the maximum temperature graph above.  This graph is colored by our Ls measurement so that we can see where Mars is in it's orbit compared to the temperature readings.  You may recall that a Martian year is about 687 days, which is roughly the the amount of the number of Sols we see between the peaks on our graph, as well as the time between shifts in the Ls measurements.  
 
 We can see already that there are seasonal fluctuations in temperature data, at least at the Gale Crater where Curisoity is taking it's readings.  But the above graphic can be difficult to predict what temperatures are like in a particular month in any given year.  Below we will look at averaged temperatures for each of the 12 months, to give us an idea of what temperatures we might expect were we to visit Curiosity, no matter the month of our arrival.
 
-<img src='/assets/img/avg_month_temps.png'>
+<p align="center">
+  <img width="460" height="300" src='/assets/img/avg_month_temps.png'>
+</p>
 
 As we can see, temperature fluctuations are almost what we would expect in any given year here on Earth, at least in our northern hemisphere, with the coldest months being the first few months of the Martian year, or after the Northward Equinox, and the warmest months being in the Southward equinox period.  Months can be difficult ot work with as a measurement of time with Mars, as the months there can very in length much greater than they do here.  The shortest month is about 46 Sols, while the longest is about 67.  It was mentioned that Curiosity landed in the Gale Crater, which is located on Mar's equator, so we can expect that these temperatures are much warmer than they would be at lattitudes further north or south. <mark>Below we can see temperature ranges as they appear throughout an average year.</mark>
 
@@ -56,7 +64,9 @@ If the cold termperatures on Mars aren't enough to keep tourists away, the extre
 
 The REMS package on Curisoity has been measuring the air pressure in pascals, and some interesting things stand out when we look at the pressure plotted out over the duration of Curiosity's stay:
 
-<img src='/assets/img/pressure_sol.png'>
+<p align="center">
+  <img width="460" height="300" src='/assets/img/pressure_sol.png'>
+</p>
 
 What's really interesting about this is that we can see our 3 Martian year pattern show up in our pressure data.  That is remarkable in that there is no seasonal variation of air pressure on Earth.  What's occuring on Mars is that, as the weather gets colder, it's cold enough for CO2 to actually freeze out of the air, causing air pressure to drop by as much as 30% around the planet!
 
@@ -64,7 +74,9 @@ You might be noticing the double-peaked portion of the graph, where the air pres
 
 If we look at the average pressure for each month, we can see this in greater detail:
 
-<img src='/assets/img/avg_month_pressure.png'> 
+<p align="center">
+  <img width="460" height="300" src='/assets/img/avg_month_pressure.png'>
+</p>
 
 If we compare this to the image at the top of the article displaying Mar's orbit, we can see that as the pressure drops in Month 2 of the year, Mars is making it's way towards the aphelion portion of it's orbit, or the position furthest from the sun, and the air pressure rises again as the planet moves around towards it's perihilion position, before continuing on to start the process all over again.  
 
