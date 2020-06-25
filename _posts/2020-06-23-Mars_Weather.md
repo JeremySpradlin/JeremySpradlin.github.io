@@ -88,9 +88,3 @@ Cold temperatures aside, to every young dreamer's dissapointment, with the extre
 
 However, any system that is in motion is a system that can be modifed, and maybe one day, with enough ingenuity and advancements in terraforming, our human decscendants will walk freely under the Martian night sky, and look up and dream about the 3d rock from the sun.
 
-
-# TEST
-
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
