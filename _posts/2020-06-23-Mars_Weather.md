@@ -66,7 +66,7 @@ You might be noticing the double-peaked portion of the graph, where the air pres
 
 If we look at the average pressure for each month, we can see this in greater detail:
 
-<iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/jeremy-avg_month_pressure.html" width="1000" height="500"> </iframe>
+<iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/jeremy-avg_month_pressure.html" width="1000" height="600"> </iframe>
 
 If we compare this to the image at the top of the article displaying Mar's orbit, we can see that as the pressure drops in Month 2 of the year, Mars is making it's way towards the aphelion portion of it's orbit, or the position furthest from the sun, and the air pressure rises again as the planet moves around towards it's perihilion position, before continuing on to start the process all over again.  
 
