@@ -33,10 +33,8 @@ The Ls measurement is important to understand as we will be looking at Ls as an 
 </p>
 
 <p align="center">
-  <iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/jeremy-avg_month_pressure.html" width="750" height="800"> </iframe>
+  <img width="460" height="300" src="https://charts.sharpdesigndigital.com/jeremy-avg_month_pressure.html">
 </p>
-
-<iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/jeremy-avg_month_pressure.html" width="750" height="800"> </iframe>
 
 As we can see above, over the course of almost 2000 sols, or almost 6 years, we see our Ls measurment cycle through all 360 degrees almost 3 full times.  This tells us that any annual weather patterns that we see in our data, should equate to about 3 full orbital periods around the sun.  
 
