@@ -25,7 +25,9 @@ Borealis, the Northern Lights, are the result of solar winds passing over our Ma
 potential dangers of solar flares, and more recently, you may have even seen articles recently discussing about how our Sun is entering into a "Solar Minimum", a 
 period in the 11 year solar cycle where solar activity is at it's lowest, and there are few if any sun spots on the Sun.  We can acctually see this in our data:
 
-INSERT SOLAR CYCLE GRAPH HERE
+<p align="center">
+  <img width="500" height="400" src='asset/img/solar_cycle.png'>
+</p>
 
 The relationship between solar weather, sunspot activity in particular, and electromagnetic intereference here on earth is a well established and documented 
 phenomena, if not as well publicly known.  If you've ever had days where wireless communications may not have worked as well, cellular calls dropped more often, etc, 
