@@ -35,7 +35,7 @@ As we can see above, over the course of almost 2000 sols, or almost 6 years, we 
 Let's look at some of our data and see what we have to analyze:
 
 <p align="center">
-  <img width="900" height="200" src='/assets/img/Mars_data.png'>
+  <img width="1100" height="400" src='/assets/img/Mars_data.png'>
 </p>
 
 The first thing you might notice is that we are missing some wind speed data, and a deeper analysis showed that atmospheric opacity was pretty much all sunny, or did not contain any data.  This isn't unexpected, given that while Mars may have seasonal weather, it is not known for it's thunderstorms. (Sandstorms are a different matter, however). This leaves us with temperature and pressure data.  A quick glance at our maximum recorded temperature data shows the following:
