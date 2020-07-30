@@ -120,5 +120,5 @@ here on earth without ever turning an eye to the sun.
 
 _____
 #### Datasources:
-Sunspots:  https://www.kaggle.com/abhinand05/daily-sun-spot-data-1818-to-2019
-Radio Flux:  https://www.kaggle.com/davidjackson0513/radio-flux-1951-2019
+Sunspots:  [Kaggle Sunspots](https://www.kaggle.com/abhinand05/daily-sun-spot-data-1818-to-2019)
+Radio Flux:  [Kaggle Radio Flux](https://www.kaggle.com/davidjackson0513/radio-flux-1951-2019)
