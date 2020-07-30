@@ -40,7 +40,9 @@ To accomplish this, I needed to join two different datasets; One containing dail
 I was able to find datasets for both of these on Kaggle, links to the sets are provided below.  After cleaning the datasets and normalizing dates to join them on, 
 to ensure that we maintain the correct radio telescope readings with the correct number of sunspots, we are left with the following dataset containing both:
 
-INSERT DF HEAD HERE
+<p align="center">
+  <img width="1100" height="300" src='/assets/img/dfhead.png'>
+</p>
 
 A first glance at this data set might be confusing with so many columns with names that might not make any sense to someone not trained in Radio Frequency Theory.  That's ok, all we really 
 need to take away from this is that these different features represent different RF frequencies, and that we will be comparing power fluctuations at these 
@@ -82,7 +84,9 @@ accuracy (R^2 score) of .97, any overfitting is minimal.  Let's look at our scor
 So this looks pretty good.  We get an R^2 score just above 0.97 and our MAE is quite low, even compared to our initial Linear Regression model.  Now that we've
 got a model with our testing metrics looking pretty good, let's drive into the model and look at which features are giving us such good results:
 
-INSERT FEATURE IMPORTANCE IMAGE
+<p align="center">
+  <img width="1100" height="300" src='/assets/img/feature_importances.png'>
+</p>
 
 Unexpectedly, it looks as if the vast majority of our importance is distributed across a few features, with the remaining small amount of importance distributed 
 across all the other features.  So what are these features? 
@@ -93,7 +97,9 @@ power measurements at 2800 MHZ across two different phases, or axies.
 
 # Results
 
-INSERT SS OVER TIME GRAPH HERE
+<p align="center">
+  <img width="1100" height="300" src='/assets/img/solar_cycle_colored.png'>
+</p>
 
 The plot above gives us the number of sunspots over a 70 year period and is colored by the amount of flux read at the f10.7 frequency.  We can see that as the number
 of sunspots rise, so does the reading on that particular frequency.  As previously stated, there is a well known and documented relationship between this frequency and solar activity.  f10.7
@@ -101,7 +107,9 @@ is actually a commonly used index for monitoring solar activity, and after this 
 realtionships with solar activity and other bands, but the fluctuations are not as large as they are at the f10.70 band, and this is probably why we don't see those features
 having as high an importance in our analysis.  
 
-INSERT F15 over F30 GRAPH
+<p align="center">
+  <img width="1100" height="300" src='/assets/img/f15_f30.png'>
+</p>
 
 In the graph above we see that readings in the f15 band go up to around 300, and up to around 200 for the f30 band.  
 
