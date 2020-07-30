@@ -115,3 +115,10 @@ How useful this information might be is something that might be up for debate, a
 follows a much larger and longer pattern.  An 11 year cycle actually, so we should not expect massive changes in sunspot activity from one day to the next.  But if there
 were to be massive changes on a day to day basis for whatever reason, we would be able to detect them through reading fluctuations in the electromagnetic spectrum 
 here on earth without ever turning an eye to the sun.  
+
+
+
+_____
+#### Datasources:
+Sunspots:  https://www.kaggle.com/abhinand05/daily-sun-spot-data-1818-to-2019
+Radio Flux:  https://www.kaggle.com/davidjackson0513/radio-flux-1951-2019
