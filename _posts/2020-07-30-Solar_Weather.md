@@ -26,7 +26,7 @@ potential dangers of solar flares, and more recently, you may have even seen art
 period in the 11 year solar cycle where solar activity is at it's lowest, and there are few if any sun spots on the Sun.  We can acctually see this in our data:
 
 <p align="center">
-  <img width="500" height="400" src='asset/img/solar_cycle.png'>
+  <img width="500" height="400" src='assets/img/solar_cycle.png'>
 </p>
 
 The relationship between solar weather, sunspot activity in particular, and electromagnetic intereference here on earth is a well established and documented 
