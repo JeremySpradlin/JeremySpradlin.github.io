@@ -98,7 +98,7 @@ power measurements at 2800 MHZ across two different phases, or axies.
 # Results
 
 <p align="center">
-  <img width="1400" height="400" src='/assets/img/solar_cycle_colored.png'>
+  <img width="1400" height="400" src='/assets/img/solar_cycle_renamed.png'>
 </p>
 
 The plot above gives us the number of sunspots over a 70 year period and is colored by the amount of flux read at the f10.7 frequency.  We can see that as the number
