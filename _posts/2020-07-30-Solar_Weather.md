@@ -85,7 +85,7 @@ So this looks pretty good.  We get an R^2 score just above 0.97 and our MAE is q
 got a model with our testing metrics looking pretty good, let's drive into the model and look at which features are giving us such good results:
 
 <p align="center">
-  <img width="1400" height="400" src='/assets/img/feature_importances.png'>
+  <img width="1400" height="600" src='/assets/img/feature_importances.png'>
 </p>
 
 Unexpectedly, it looks as if the vast majority of our importance is distributed across a few features, with the remaining small amount of importance distributed 
