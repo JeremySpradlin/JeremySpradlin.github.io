@@ -41,7 +41,7 @@ I was able to find datasets for both of these on Kaggle, links to the sets are p
 to ensure that we maintain the correct radio telescope readings with the correct number of sunspots, we are left with the following dataset containing both:
 
 <p align="center">
-  <img width="1400" height="250" src='/assets/img/dfhead.png'>
+  <img width="1600" height="250" src='/assets/img/dfhead.png'>
 </p>
 
 A first glance at this data set might be confusing with so many columns with names that might not make any sense to someone not trained in Radio Frequency Theory.  That's ok, all we really 
@@ -85,7 +85,7 @@ So this looks pretty good.  We get an R^2 score just above 0.97 and our MAE is q
 got a model with our testing metrics looking pretty good, let's drive into the model and look at which features are giving us such good results:
 
 <p align="center">
-  <img width="1400" height="700" src='/assets/img/feature_importances.png'>
+  <img width="1400" height="800" src='/assets/img/feature_importances.png'>
 </p>
 
 Unexpectedly, it looks as if the vast majority of our importance is distributed across a few features, with the remaining small amount of importance distributed 
