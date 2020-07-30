@@ -26,7 +26,7 @@ potential dangers of solar flares, and more recently, you may have even seen art
 period in the 11 year solar cycle where solar activity is at it's lowest, and there are few if any sun spots on the Sun.  We can acctually see this in our data:
 
 <p align="center">
-  <img width="1100" height="300" src='/assets/img/solar_cycle.png'>
+  <img width="1400" height="500" src='/assets/img/solar_cycle.png'>
 </p>
 
 The relationship between solar weather, sunspot activity in particular, and electromagnetic intereference here on earth is a well established and documented 
@@ -41,7 +41,7 @@ I was able to find datasets for both of these on Kaggle, links to the sets are p
 to ensure that we maintain the correct radio telescope readings with the correct number of sunspots, we are left with the following dataset containing both:
 
 <p align="center">
-  <img width="1100" height="300" src='/assets/img/dfhead.png'>
+  <img width="1400" height="250" src='/assets/img/dfhead.png'>
 </p>
 
 A first glance at this data set might be confusing with so many columns with names that might not make any sense to someone not trained in Radio Frequency Theory.  That's ok, all we really 
@@ -85,7 +85,7 @@ So this looks pretty good.  We get an R^2 score just above 0.97 and our MAE is q
 got a model with our testing metrics looking pretty good, let's drive into the model and look at which features are giving us such good results:
 
 <p align="center">
-  <img width="1100" height="300" src='/assets/img/feature_importances.png'>
+  <img width="1400" height="400" src='/assets/img/feature_importances.png'>
 </p>
 
 Unexpectedly, it looks as if the vast majority of our importance is distributed across a few features, with the remaining small amount of importance distributed 
@@ -98,7 +98,7 @@ power measurements at 2800 MHZ across two different phases, or axies.
 # Results
 
 <p align="center">
-  <img width="1100" height="300" src='/assets/img/solar_cycle_colored.png'>
+  <img width="1400" height="400" src='/assets/img/solar_cycle_colored.png'>
 </p>
 
 The plot above gives us the number of sunspots over a 70 year period and is colored by the amount of flux read at the f10.7 frequency.  We can see that as the number
@@ -108,7 +108,7 @@ realtionships with solar activity and other bands, but the fluctuations are not 
 having as high an importance in our analysis.  
 
 <p align="center">
-  <img width="1100" height="300" src='/assets/img/f15_f30.png'>
+  <img width="1400" height="400" src='/assets/img/f15_f30.png'>
 </p>
 
 In the graph above we see that readings in the f15 band go up to around 300, and up to around 200 for the f30 band.  
