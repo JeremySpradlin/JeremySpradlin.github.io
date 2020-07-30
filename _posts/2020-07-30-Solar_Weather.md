@@ -2,7 +2,7 @@
 layout: post
 title: Sunspotting
 subtitle: Predicting Sun Spot Activity Via Upper Atmosphere Radiowave Fluctuations
-cover-img: /assets/img/mars.jpg
+cover-img: /assets/img/sun.jpg
 tags: [Sun, Nasa]
 ---
 
