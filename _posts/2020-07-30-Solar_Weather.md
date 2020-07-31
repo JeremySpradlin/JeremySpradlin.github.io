@@ -12,7 +12,7 @@ For thousands of years humans have had at least some significtant portion of our
 that would traverse the sky from one side to the other.  Indeed, many religions, both old and modern, hold the Sun as an object of worship.  The first recorded
 observations of the sun date back to China, circa 2300 BC.  These were mostly just obserations for tracking seasons, until about a thousand years later when the 
 Egyptions invented the Sun Dial, allowing us to utilize the sun for keeping track of time in a more precise manner throughout each day.  For millenia after this, 
-not much changed.  Records were kept of it's movement through the sky, it's eclipses and other phenonemna as our limited ability to observe allowed, but it was 
+not much changed.  Records were kept of its movement through the sky, its eclipses and other phenonemna as our limited ability to observe allowed, but it was 
 not until 1610 when, using a telescope, the first detailed obserations of sunspots were recorded by Galileo.  
 
 It was a centuries later, around the middle of the 19th century, that scientists began to recognize patterns in how the number of sunspots changed on the sun, 
@@ -23,7 +23,7 @@ and only in the last 100 years or so that we've really started to observe exactl
 Today, most people are aware that what happens on the sun has an effect to at least some degree on what happens here on Earth.  It's fairly well known that Aurora 
 Borealis, the Northern Lights, are the result of solar winds passing over our Magnetic Field.  Movies and other stories in popular culture have often referenced the 
 potential dangers of solar flares, and more recently, you may have even seen articles recently discussing about how our Sun is entering into a "Solar Minimum", a 
-period in the 11 year solar cycle where solar activity is at it's lowest, and there are few if any sun spots on the Sun.  We can acctually see this in our data:
+period in the 11 year solar cycle where solar activity is at its lowest, and there are few if any sun spots on the Sun.  We can acctually see this in our data:
 
 <p align="center">
   <img width="1400" height="400" src='/assets/img/solar_cycle.png'>
