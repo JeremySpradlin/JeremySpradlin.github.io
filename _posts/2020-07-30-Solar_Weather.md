@@ -10,7 +10,7 @@ tags: [Sun, Nasa]
 
 For thousands of years humans have had at least some significtant portion of our collective attention pointed towards the large, bright, and very hot disk
 that would traverse the sky from one side to the other.  Indeed, many religions, both old and modern, hold the Sun as an object of worship.  The first recorded
-observations of the sun date back to China, circa 2300 BC.  These were mostly just obserations for tracking seasons, until about a thousand years later when the 
+observations of the sun date back to China, circa 2300 BC.  These were mostly just observations for tracking seasons, until about a thousand years later when the 
 Egyptions invented the Sun Dial, allowing us to utilize the sun for keeping track of time in a more precise manner throughout each day.  For millenia after this, 
 not much changed.  Records were kept of its movement through the sky, its eclipses and other phenonemna as our limited ability to observe allowed, but it was 
 not until 1610 when, using a telescope, the first detailed obserations of sunspots were recorded by Galileo.  
